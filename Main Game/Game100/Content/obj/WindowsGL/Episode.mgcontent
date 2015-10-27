@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Gun/Documents/GitHub/0895461-0902283-0895664-0896252/Main Game/Game100/Content/Episode.wav</SourceFile>
+  <SourceTime>2015-09-14T20:09:25.2475989+02:00</SourceTime>
+  <DestFile>C:/Users/Gun/Documents/GitHub/0895461-0902283-0895664-0896252/Main Game/Game100/Content/bin/WindowsGL/Episode.xnb</DestFile>
+  <DestTime>2015-09-29T10:06:03.8862264+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T19:14:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
